@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 100px;
+    font-family: "Afacad Flux", sans-serif;
+}
+
+.title {
+    height: 100px;
+    width: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title h1 {
+    font-size: 50%;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 20%;
+    display: flex;
+    justify-content: right;
+    padding: 7px 7px 0 0;
+}
+
+body {
+    background-color: rgb(255, 246, 234);
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+}
+
+.marker {
+    width: 300px;
+    height: 40px;
+    margin: 20px auto;
+}
+  
+.sleeve {
+    width: 170px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-left: 13px double rgba(0, 0, 0, 0.75);
+    margin-left: 100px;
+}
+
+.lightcoral {
+    background: lightcoral;
+    box-shadow: 0 0 20px 0 lightcoral;
+}
+
+.red {
+    background: red;
+    box-shadow: 0 0 20px 0 red;
+}
+  
+.orange {
+    background: orange;
+    box-shadow: 0 0 20px 0 orange;
+}
+  
+.yellow {
+    background: yellow;
+    box-shadow: 0 0 20px 0 yellow;
+}
+
+.green {
+    background: green;
+    box-shadow: 0 0 20px 0 green;
+}
+
+.cyan {
+    background: cyan;
+    box-shadow: 0 0 20px 0 cyan;
+}
+    
+.blue {
+    background: blue;
+    box-shadow: 0 0 20px 0 blue;
+}
+  
+.indigo {
+    background: indigo;
+    box-shadow: 0 0 20px 0 indigo;
+}
+
+.magenta {
+    background: magenta;
+    box-shadow: 0 0 20px 0 magenta;
+}
+
+.violet {
+    background: violet;
+    box-shadow: 0 0 20px 0 violet;
+}
+
+.black {
+    background: black;
+    box-shadow: 0 0 20px 0 black;
+}
